@@ -1,4 +1,4 @@
-# Transfomer
+# Transformer
 Transfomer model by Pytorch
 
 DATASET      :  ASPEC
